@@ -162,7 +162,7 @@ html, body {
     color: transparent;
     width: 24px;
     height: 19px;
-    background-image: url("./../../img/icons/mail.svg");
+    background-image: url("./../img/icons/mail.svg");
     background-size: initial; }
 
 .form__input {
@@ -210,7 +210,7 @@ html, body {
       display: block;
       width: 12px;
       height: 12px;
-      background-image: url("./../../img/icons/play.svg");
+      background-image: url("./../img/icons/play.svg");
       background-size: initial;
       background-repeat: no-repeat; }
 
@@ -358,7 +358,7 @@ html, body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background: url("./../../img/cta/oval-bottom-left.svg") bottom left -186px no-repeat, url("./../../img/cta/oval-top-right.svg") right top no-repeat; }
+  background: url("./../img/cta/oval-bottom-left.svg") bottom left -186px no-repeat, url("./../../img/cta/oval-top-right.svg") right top no-repeat; }
   .cta__text p {
     width: 320px; }
 
@@ -523,7 +523,7 @@ html, body {
     display: block;
     width: 80px;
     height: 80px;
-    background: url("./../../img/Testimonials/Shape.svg");
+    background: url("./../img/Testimonials/Shape.svg");
     background-repeat: no-repeat;
     position: absolute;
     top: -40px;
